@@ -1,0 +1,37 @@
+{
+    "city": [
+        {
+            "name": "Adana"
+        },
+        {
+            "name": "Sivas"
+        },
+        {
+            "name": "Kastamonu"
+        },
+        {
+            "name": "Antalya"
+        },
+        {
+            "name": "Kayseri"
+        },
+        {
+            "name": "Tokat"
+        },
+        {
+            "name": "Şanlı Urfa"
+        },
+        {
+            "name": "Gazi Antep"
+        },
+        {
+            "name": "Kahraman Maraş"
+        },
+        {
+            "name": "Malatya"
+        },
+        {
+            "name": "Hatay"
+        }
+    ]
+}
